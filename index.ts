@@ -63,6 +63,7 @@ function testClaseEdificio() {
   } else {
     throw "testClaseBandaApartment not passed";
   }
+  console.log(hola ;D)
 }
 
 function main() {
